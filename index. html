@@ -1,0 +1,110 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Santos Futebol Clube</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: 	#000000;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        h1 {
+            font-size: 32px;
+        }
+        nav {
+            background-color: #FFFFFF;
+            color: #fff;
+            padding: 10px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Santos Futebol Clube</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#historia">História</a></li>
+            <li><a href="#elenco">Elenco</a></li>
+            <li><a href="#titulos">Títulos</a></li>
+        </ul>
+    </nav>
+    <section id="historia">
+        <h2>História do Santos FC</h2>
+        <p>O Santos Futebol Clube é um dos clubes mais tradicionais do futebol brasileiro. Fundado em 1912, o clube tem uma rica história e é conhecido por ter revelado diversos talentos, incluindo Pelé, considerado um dos maiores jogadores de todos os tempos.</p>
+    </section>
+    <section id="elenco">
+        <h2>Icones Do Santos</h2>
+        <p> Alguns icones do  santos  incluem:</p>
+        <ul>
+            <li>Neymar Jr.</li>
+            <li>Pelé</li>
+            <li>Rodrygo</li>
+            <li>Ganso</li>
+        </ul>
+    </section>
+    <section id="titulos">
+        <h2>Títulos Conquistados</h2>
+        <p>O Santos FC possui um impressionante histórico de títulos, incluindo:</p>
+        <ul>
+            <li>Campeonato Brasileiro: 8 vezes</li>
+            <li>Copa Libertadores: 3 vezes</li>
+            <li>Copa do Brasil: 1 vez</li>
+            <li>Copa Intercontinental: 2 vezes</li>
+        </ul>
+    </section>
+</body>
+</html>
+<html>
+<head>
+    <title>Minha Página com Imagem</title>
+</head>
+<body>
+    <h1>Escudo Do Santos Futebol Clube</h1>
+    <p>Aqui está uma imagem:</p>
+    <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5mIFiyNqtM4TQ8LPzM6VAblXsPzjj3RIrCvT7pa_SKjYAVQ3bc8xe6R9J5WJ52Ka2BLY&usqp=CAU alt=Escudo do santos>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Página com Fundo de Imagem</title>
+    <style>
+    p {
+    color:#FFFFFF
+    }
+        body {
+            background-image: url(https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/07/noticiasdosantos.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
